@@ -1,0 +1,14 @@
+{
+   "csePoa": "http://127.0.0.1:8080",
+   "cseId": "server",
+   "cseName": "server",
+   "aeId": "Cae-Safety-AE",
+   "aeName": "Safety-AE",
+   "cntMni": 100,
+   "appId": "app.company.com",
+   "aeIp": "127.0.0.1",
+   "aePort": 3000,
+   "subName": "safetyAppSub",
+   "subscribeToCnt": "AGRI-IPE/Container-TriggerSensors",
+   "triggerCnt": "Vehicle-AE/VehicleReadTrafficInfo"
+}
