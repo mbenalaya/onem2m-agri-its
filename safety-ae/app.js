@@ -121,6 +121,13 @@ function createSubscription(){
 		}else{
 			console.log(response.statusCode);
 			console.log(body);
+			if(response.statusCode=="404"){
+				console.log("Trying to subscribe again in 5s");
+				setTimeout(function() {
+					createSubscription();
+				}, 5000);
+				
+			}
 		}
 	});
 }
