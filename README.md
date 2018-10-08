@@ -1,8 +1,8 @@
 # onem2m-agri-its
 
 ## Requirements
-* JAVA 8 to run the CSE
-* Node to run Agri IPE, ITS IPE and Safety AE
+* JAVA 8 (to run the CSE)
+* NodeJS (to run Agri IPE, ITS IPE and Safety AE)
 
 ## Run oneM2M platform
 1. open "cse" folder
