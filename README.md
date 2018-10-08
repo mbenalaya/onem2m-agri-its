@@ -4,7 +4,7 @@
 * JAVA 8 to run the CSE
 * Node to run Agri IPE, ITS IPE and Safety AE
 
-## Run the oneM2M platform
+## Run oneM2M platform
 1. open "cse" folder
 2. You can configure the CSE using file config/config.ini (Optional)
 3. Execute "start.sh" on linux or "start.bat" on Windows
