@@ -8,7 +8,7 @@
 1. open "cse" folder
 2. You can configure the CSE using file config/config.ini (Optional)
 3. Execute "start.sh" on linux or "start.bat" on Windows
-4. Open the web interface. Default address: http://127.0.0.1:8080/web
+4. Open the CSE web interface. Default address: http://127.0.0.1:8080/web
 5. Login using "Cae-admin" as username and "admin" as password
 
 ## Run Agri-IPE
